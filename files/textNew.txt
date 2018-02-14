@@ -1,0 +1,20 @@
+c;0;Independence, Missouri;4,1,0
+r;1;Kansas River Crossing;4,2,102;person;speech;106.17
+r;2;Big Blue River Crossing;2,3,185;person;speech;76.13
+f;3;Fort Kearney;3,4,304;person;speech;1.25
+l;4;Chimney Rock;2,5,554;person;speech
+f;5;Fort Laramie;3,6,640;person;speech;1.5
+l;6;Independence Rock;3,7,830;person;speech
+l;7;South Pass;4,8,932;person;speech
+f;8;Fort Bridger;2,9,989;person;speech;1.75
+r;9;Green River Crossing;3,10,1151;person;speech;19.61
+l;10;Soda Springs;2,11,1295;person;speech
+f;11;Fort Hall;4,12,1352;person;speech;2
+r;12;Snake River Crossing;2,13,1543;person;speech;166.67
+f;13;Fort Boise;3,14,1648;person;speech;2.25
+l;14;Blue Mountains;2,15,1808;person;speech
+f;15;Fort Walla Walla;3,16,1863;person;speech;2.5
+l;16;The Dalles;4,17,1983;person;speech
+r;17;Barlow Toll Road;1,18,2001;person;speech;-1
+r;18;Columbia River;1,19,2101;palceholder;placeholder;-2
+c;19;Oregon City;-1,20,2102
